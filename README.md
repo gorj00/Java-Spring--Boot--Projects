@@ -1,6 +1,9 @@
 # Java Spring (Boot) Projects
 
-## #1 Java Spring Framework, Hibernate, and Java Spring Boot
+### Currently working on: 
+- Microservices project with Kafka and Elasticsearch
+
+### #1 Java Spring Framework, Hibernate, and Java Spring Boot
 **[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_FRAMEWORK_project)]**
 
 This project consists of 10 small demo apps to demonstrate the main features of Java Spring with the focus on building **REST APIs**
@@ -28,7 +31,7 @@ This project consists of 10 small demo apps to demonstrate the main features of 
 
 **keywords**: Spring, Spring Boot, IoC, Dependency Injection, AOP, REST API, MySQL, Hibernate
 
-## #2 Java Spring Boot - Video Streams Schedule (REST API)
+### #2 Java Spring Boot - Video Streams Schedule (REST API)
 **[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_BOOT_streams-schedule)]**
 
 Simple CRUD REST API for in-memory video streams schedule.
@@ -40,13 +43,14 @@ Simple CRUD REST API for in-memory video streams schedule.
   - `PUT /streams/{id}` update a stream,
   - `DELETE /streams/{id}` delete a stream,
 
-## #3 Java Spring Boot & Security - JPA Auth with H2 Database
+### #3 Java Spring Boot & Security - JPA Auth with H2 Database
 **[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_BOOT_JPA_Auth)]**
 
-## #4 Java Spring Boot & Cloud - Microservices (Movies_Catalogue)
+### #4 Java Spring Boot & Cloud - Microservices (Movies_Catalogue)
 **[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_CLOUD_Microservices_Movies_Catalogue)]**
+- _In progress_
 
-## #5 Java Spring Boot & Security - JWT Authentication, authorization
+### #5 Java Spring Boot & Security - JWT Authentication, authorization
 **[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_BOOT_JWT_Authz)]**
 - _In progress_
 
