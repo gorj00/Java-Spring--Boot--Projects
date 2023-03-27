@@ -23,6 +23,9 @@ This project consists of 10 small demo apps to demonstrate the main features of 
   - Demo 10_3 - REST API (Spring Data JPA)
   - Demo 10_4 - REST API (Spring Data REST)
 
+- **Java Spring Boot (Demo 11)**
+  - Demo 11 - **Spring Security** (in-memory authentication and authorization)
+
 **keywords**: Spring, Spring Boot, IoC, Dependency Injection, AOP, REST API, MySQL, Hibernate
 
 ## #2 Java Spring Boot - Video Streams Schedule (REST API)
@@ -36,4 +39,14 @@ Simple CRUD REST API for in-memory video streams schedule.
   - `POST /streams` create a new stream,
   - `PUT /streams/{id}` update a stream,
   - `DELETE /streams/{id}` delete a stream,
+
+## #3 Java Spring Boot & Security - JPA Auth with H2 Database
+**[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_BOOT_JPA_Auth)]**
+
+## #4 Java Spring Boot & Cloud - Microservices (Movies_Catalogue)
+**[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_CLOUD_Microservices_Movies_Catalogue)]**
+
+## #5 Java Spring Boot & Security - JWT Authentication, authorization
+**[[ JAVA PROJECT CODE ](https://github.com/gorj00/JAVA_SPRING_BOOT_JWT_Authz)]**
+- _In progress_
 
